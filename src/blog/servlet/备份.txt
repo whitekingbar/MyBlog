@@ -1,0 +1,6 @@
+<form action="loginServlet" method="post">
+		邮箱:&nbsp<input type="text" name="uemail"   placeholder="请输入邮箱" 	/><br/>
+		密码:&nbsp<input type="password" name="upwd" 	/><br/>&nbsp&nbsp
+			<br/><input type="submit" value="登录"/>  &nbsp
+	</form>
+	<a href="register.jsp"> 注册</a>
